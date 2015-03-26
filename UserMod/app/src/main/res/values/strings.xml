@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">User Options</string>
+    <string name="title_section1">Vehicle Location</string>
+    <string name="title_section2">Admin</string>
+    <string name="title_section3">Driver</string>
+    <string name="title_section4">DropPoint</string>
+    <string name="title_section5">Confirm</string>
+    <string name="title_section6">Logout</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
